@@ -3,7 +3,7 @@
 This is a basic python project that reads the faces of the images provided. 
 The basic functioning of the project is that when you provide an image path in the "img" variable then by using various functions of the face_recognition Library, 
 it will display a output as : "Similar Images" if the images are similar, otherwise "Different Images" if the images are not similar.
-This is just a idea project, more updations will be there. 
+This is just a rudimental project, more updations will be there. 
 
 to run this project, Dependencies are:
 cmake
